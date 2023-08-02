@@ -21,7 +21,7 @@ Running Zipper.py (The aim of this program is to zip the images to upload onto g
 Running on Colab:  
     
     1. Compress your testing images along with checkpoint.pth(Trained Model used for project)
-    2. Import BioTrillion_Challenge_CV to Google Colab.
+    2. Import Segmentor.ipynb onto Google Colab.
     3. Run the first block to upload the zipped testing and checkpoint file
     4. Run the second block to unzip the files onto the colab directory.
  
